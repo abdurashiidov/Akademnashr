@@ -23,12 +23,14 @@ body{
 }
 .header-nav{
     display: flex;
-    text-align: center;
+    justify-content: space-between;
+    align-items: center;
 }
 .header-nav-logo{
     margin: 0;
     text-align: center;
     align-items: center;
+    margin-right: 263px;
 }
 .header-nav-ul{
     display: flex;
