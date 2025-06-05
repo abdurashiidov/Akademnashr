@@ -34,10 +34,36 @@ body{
 }
 .header-nav-ul{
     display: flex;
+    justify-content: space-between;
+    width: 610px;
     margin: 0;
     padding: 0;
-    text-decoration: none;
+    list-style: none;
 }
 .header-nav-ul-li{
     text-decoration: none;
+}
+.header-nav-ul-li-a{
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+
+}
+.header-nav-ul-li-link{
+    text-decoration: none;
+    background-color: #FF7500;
+    color: #FFFFFF;
+    width: 155;
+    height: 39;
+    border-radius: 4px;
+    padding-top: 12px;
+    padding-right: 24px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+
 }
