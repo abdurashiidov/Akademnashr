@@ -88,3 +88,8 @@ body{
 .header-nav-ul-li-link:active{
     opacity: 1;
 }
+
+/* hero start */
+.hero{
+    display: flex;
+}
