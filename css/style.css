@@ -92,13 +92,14 @@ body{
 /* hero start */
 .hero{
     display: flex;
+    justify-content: space-between;
     width: 100%;
     background-color: #252420;
 }
 .hero-wrap{
     padding-top: 80px;
-    width: 387;
-    height: 328;
+    width: 387px;
+    height: 328px;
     top: 177px;
     left: 170px;
 
