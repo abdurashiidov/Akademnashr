@@ -92,4 +92,6 @@ body{
 /* hero start */
 .hero{
     display: flex;
+    width: 100%;
+    background-color: #252420;
 }
