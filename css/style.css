@@ -42,9 +42,17 @@ body{
     padding: 0;
     list-style: none;
 }
+
 .header-nav-ul-li{
     text-decoration: none;
 }
+.header-nav-ul-li-a:hover{
+    color: #FF7500;
+}
+.header-nav-ul-li-a:active{
+    opacity: 0.6;
+}
+
 .header-nav-ul-li-a{
     text-decoration: none;
     font-family: "Roboto", sans-serif;
