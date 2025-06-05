@@ -97,6 +97,11 @@ body{
 }
 .hero-wrap{
     padding-top: 80px;
+    width: 387;
+    height: 328;
+    top: 177px;
+    left: 170px;
+
 }
 .hero-line{
     margin: 0;
@@ -105,4 +110,26 @@ body{
     height: 3px;
     background: #FF7500;
     border: 0;
+}
+.hero-wrap-heading{
+    width: 339;
+    height: 96;
+    top: 43px;
+    font-family: "Roboto Condensed", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 120%;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+}
+.hero-wrap-text{
+    width: 387;
+    height: 96;
+    top: 163px;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
 }
