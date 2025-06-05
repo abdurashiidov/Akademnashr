@@ -82,3 +82,9 @@ body{
     letter-spacing: 0.5px;
 
 }
+.header-nav-ul-li-link:hover{
+    opacity: 0.6;
+}
+.header-nav-ul-li-link:active{
+    opacity: 1;
+}
