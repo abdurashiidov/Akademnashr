@@ -21,6 +21,20 @@ body{
     margin: 0 auto;
     padding: 0 20px;
 }
-.header-logo{
+.header-nav-logo{
     margin: 0;
+    text-align: center;
+    align-items: center;
+}
+.header-nav{
+    display: flex;
+}
+.header-nav-ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.header-nav-ul-li{
+    text-decoration: none;
 }
